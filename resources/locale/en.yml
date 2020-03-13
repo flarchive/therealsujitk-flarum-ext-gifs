@@ -1,0 +1,10 @@
+therealsujitk:
+  forum:
+    gifs:
+      label: 'Insert GIF'
+      title: 'Select GIF'
+      searchGiphy: 'Search Giphy'
+  admin:
+    gifs:
+      title: 'GIF API Settings'
+      giphyAPIkey: 'Giphy API Key'
